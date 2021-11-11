@@ -1,0 +1,4 @@
+C:/Users/qazse/OneDrive/Рабочий стол/lab2-aka/build/CMakeFiles/rebuild_cache.dir
+C:/Users/qazse/OneDrive/Рабочий стол/lab2-aka/build/CMakeFiles/Calculator.dir
+C:/Users/qazse/OneDrive/Рабочий стол/lab2-aka/build/CMakeFiles/program.dir
+C:/Users/qazse/OneDrive/Рабочий стол/lab2-aka/build/CMakeFiles/edit_cache.dir
